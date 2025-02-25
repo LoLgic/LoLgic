@@ -1,4 +1,4 @@
-![Bienvenido a mi perfil](https://via.placeholder.com/1200x300.png?text=Bienvenido+a+mi+perfil+de+GitHub)
+
 
 # ¡Hola! Soy Mario Andrés 👋
 
@@ -32,9 +32,9 @@ Soy un programador backend realizando APIs REST y microservicios en **Java** usa
 ---
 
 ## 📂 Repositorios Destacados
-- 🔥 [Proyecto de Gestión de Reservas](https://github.com/tu_usuario/proyecto-gestion-reservas) - Sistema para gestionar reservas en restaurantes usando Spring Boot y Angular.
-- 🚀 [Conversor de Divisas - Java Swing](https://github.com/tu_usuario/conversor-divisas) - Interfaz gráfica en Java para conversión de monedas.
-- 🖥️ [Aplicación de Escritorio en Python](https://github.com/tu_usuario/app-python-desktop) - Proyecto para crear aplicaciones GUI en Python.
+- 🔥 [Proyecto Mail Sender - Spring Boot](https://github.com/LoLgic/SpringBoot-MailSender.git) - Api para enviar mails desde spring boot.
+- 🚀 [Conversor de Divisas - Java Swing](https://github.com/LoLgic/Conversor-de-Divisas.git) - Interfaz gráfica en Java para conversión de monedas.
+- 🖥️ [Descarga videos de YouTube - Python Pytube](https://github.com/LoLgic/Youtube_download.git) - Proyecto para descargar videos desde youtube.
 
 ---
 
@@ -48,8 +48,8 @@ Soy un programador backend realizando APIs REST y microservicios en **Java** usa
 ## 📊 Estadísticas
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&theme=dark&hide_border=true)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tu_usuario&layout=compact&theme=dark&hide_border=true)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LoLgic&show_icons=true&theme=dark&hide_border=true)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LoLgic&layout=compact&theme=dark&hide_border=true)
 
 </div>
 
