@@ -32,7 +32,7 @@ Soy un programador backend realizando APIs REST y microservicios en **Java** usa
 ---
 
 ## 📂 Repositorios Destacados
-- 🔥 [Proyecto Mail Sender - Spring Boot](https://github.com/LoLgic/SpringBoot-MailSender.git) - Api para enviar mails desde spring boot.
+- 🔥 [Proyecto Mail Sender - Java Spring Boot](https://github.com/LoLgic/SpringBoot-MailSender.git) - Api para enviar mails desde spring boot.
 - 🚀 [Conversor de Divisas - Java Swing](https://github.com/LoLgic/Conversor-de-Divisas.git) - Interfaz gráfica en Java para conversión de monedas.
 - 🖥️ [Descarga videos de YouTube - Python Pytube](https://github.com/LoLgic/Youtube_download.git) - Proyecto para descargar videos desde youtube.
 
