@@ -1,4 +1,3 @@
-![Bienvenido a mi perfil](https://via.placeholder.com/1200x300.png?text=Bienvenido+a+mi+perfil+de+GitHub)
 
 # ¡Hola! Soy Mario Andrés 👋
 
